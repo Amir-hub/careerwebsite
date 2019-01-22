@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
-<h1>
-#it's begin from here.
-</h1>
+<head>
+	<title>Profesional profile</title>
+</head>
+<body>
+	<h1>
+		<p>
+		I’m graduate civil engineer with demonstrated history of working in the construction industry. Very creative and self-motivated with strong understanding of building structural details and technical drawings. Skilled in efficient use of CAD softwares including Revit, AutoCAD and Microstation. Have a keen interest to get involved in BIM coordination within a team. Liaise competence of project detail-oriented with senior technicians, Engineers, surveyors and architects and manage the flow of technical information and love solving problems and investigate to produce high quality drawings.
+		</p>
+	</h1>
+</body>
 </html>
