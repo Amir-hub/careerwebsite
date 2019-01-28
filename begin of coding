@@ -1,15 +1,87 @@
 <!DOCTYPE html>
 <html>
 <style>
+  body {background-color: rgb(250, 250, 250);}
+
   .red-text {color: red;}
+  .injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+  }
+
+  .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+
+  .yellow-box {
+    background-color: yellow;
+    padding: 20px 40px 20px 40px;
+  }
+
+  .red-box {
+    background-color: red;
+    margin: 20px 40px 20px 40px;
+
+  }
+
+  .green-box {
+    background-color: green;
+    margin: 20px 40px 20px 40px;
+  }
 </style>
 <head>
-	<title>Profesional profile</title>
+	<title>RESUME</title>
 </head>
+
+		<div class="top-bar-right">
+			<button class="search-link js-search-link" aria-haspopup="true" aria-controls="search-modal">
+				<div class="search-icon">
+					<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+            <g fill="none" fill-rule="evenodd" stroke-width="2" transform="translate(1 1)" vector-effect="non-scaling-stroke">
+              <circle cx="11.429" cy="11.429" r="10.5" vector-effect="non-scaling-stroke"></circle>
+              <path d="M19.445 19.091l9.899 9.9" vector-effect="non-scaling-stroke"></path>
+            </g>
+          </svg>
+				</div>
+<div class="close-search-icon">
+  <svg viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Close</title>
+      <defs></defs>
+        <g id="Nav" stroke-width="3" fill="none" fill-rule="evenodd">
+          <g id="1366-Nav" transform="translate(-1302.000000, -22.000000)">
+            <g id="Group" transform="translate(1303.000000, 23.000000)">
+                <path d="M0,31.8198052 L31.8198052,0" id="Path-3" stroke="black" stroke-width="2" vector-effect="non-scaling-stroke"></path>
+                <path d="M0,0 L31.8198052,31.8198052" id="Path-3-Copy-2" stroke="black" stroke-width="2" vector-effect="non-scaling-stroke"></path>
+            </g>
+          </g>
+        </g>
+  </svg>
+</div>
+<span class="show-for-sr">Search</span>
+	   </button>
+			<button class="menu-link js-menu-link" aria-haspopup="true" aria-controls="menu-modal">
+				<span class="menu-link__span"></span>
+				<span class="menu-link__span"></span>
+				<span class="menu-link__span"></span>
+				<span class="menu-link__span"></span>
+				<span class="show-for-sr">Menu</span>
+			</button>
+		</div>
+
+    </body>
+	</header>
 <body>
-	<h1>Profesional profile</h1>
-		<p>
-		I’m graduate civil engineer with demonstrated history of working in the construction industry. Very creative and self-motivated with strong understanding of building structural details and technical drawings. Skilled in efficient use of CAD softwares including Revit, AutoCAD and Microstation. Have a keen interest to get involved in BIM coordination within a team. Liaise competence of project detail-oriented with senior technicians, Engineers, surveyors and architects and manage the flow of technical information and love solving problems and investigate to produce high quality drawings.testing
-		</p>
+    <h1>RESUME</h1>
+    <h2>Profesional profile</h2>
+  <p>
+    I'm graduate civil engineer with demonstrated history of working in the construction industry. Very creative and self-motivated with strong understanding of building structural details and technical drawings. Skilled in efficient use of CAD softwares including Revit, AutoCAD and Microstation. Have a keen interest to get involved in BIM coordination within a team. Liaise competence of project detail-oriented with senior technicians, Engineers, surveyors and architects and manage the flow of technical information and love solving problems and investigate to produce high quality drawings.what is this.
+  </p>
+  <h2>Key skils</h2>
+  <h2>Education</h2>
+ </div>
 </body>
 </html>/
